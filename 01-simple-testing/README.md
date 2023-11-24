@@ -12,7 +12,7 @@
 - `go test -v -run Test_isPrime`
 - `go test -v -run ^Test_isPrime$`
 
-### Running groupos of tests (test suites)
+### Running groups of tests (test suites)
 - `go test -v -run Test_alpha`
 - `go test -v -run ^Test_alpha.*$`
 

@@ -4,4 +4,5 @@ This repo was created to add the files created while learning from the [Introduc
 
 ## Applications
 
-- [Simple Testing](./simple-testing/README.md)
+- [Simple testing](./01-simple-testing)
+- [Testing web applications](./02-testing-web-applications/)
